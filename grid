@@ -1,0 +1,8 @@
+africa_grid1 <- data.frame(
+  name = c("Morocco", "Algeria", "Tunisia", "Libya", "Egypt", "Sudan", "Eritrea", "Chad", "Niger", "Mali", "Mauritania", "Senegal", "Djibouti", "Ethiopia", "South Sudan", "Somalia", "Nigeria", "Burkina Faso", 
+           "Guinea-Bissau", "Ghana", "Gambia", "Cameroon", "Central African Republic", "Guinea", "Côte d'Ivoire", "Liberia", "Kenya", "Uganda", "Sierra Leone", "Benin", "Democratic Republic of the Congo", "Rwanda", "Equatorial Guinea", "Tanzania", "Gabon", "Republic of the Congo", "Burundi", "Malawi", "Angola", "Mozambique", "São Tomé and Principe", "Comoros", "Zimbabwe", "Zambia", "Madagascar", "Namibia", "Botswana", "Togo", "Eswatini", "Cabo Verde", "Seychelles", "Mauritius", "Lesotho", "South Africa"),
+  code = c("MA", "DZ", "TN", "LY", "EG", "SD", "ER", "TD", "NE", "ML", "MR", "SN", "DJ", "ET", "SS", "SO", "NG", "BF", "GW", "GH", "GM", "CM", "CF", "GN", "CI", "LR", "KE", "UG", "SL", "BJ", "CD", "RW", "GQ", "TZ", "GA", "CG", "BI", "MW", "AO", "MZ", "ST", "KM", "ZW", "ZM", "MG", "NA", "BW", "TG", "SZ", "CV", "SC", "MU", "LS", "ZA"),
+  row = c(1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 9, 9, 9, 10, 10, 10, 11, 11, 11, 11),
+  col = c(3, 4, 5, 6, 7, 7, 8, 6, 5, 4, 3, 2, 9, 8, 7, 10, 5, 3, 2, 4, 1, 4, 5, 1, 2, 3, 8, 7, 2, 3, 6, 7, 4, 8, 4, 5, 7, 7, 4, 8, 2, 10, 7, 6, 10, 5, 6, 1, 7, 2, 2, 1, 6, 5),
+  stringsAsFactors = FALSE
+)
